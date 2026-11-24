@@ -1,8 +1,8 @@
 # Mini-Project 1: Where Does GPT-2 Small "Know" Country Capitals?
 
 - **Date:** 2026-11-24
-- **Timebox:** 1–2 days
-- **Model:** `gpt2-small`
+- **Timebox:** 1 to 2 days
+- **Model:** `gpt2` (GPT-2 Small)
 
 ## 1. Question
 Where in GPT-2 Small does country-to-capital retrieval happen, and is it driven primarily by MLPs or attention heads?
