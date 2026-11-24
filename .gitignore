@@ -1,0 +1,21 @@
+# Python / Virtualenvs
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets & OS
+.env
+.DS_Store
+Thumbs.db
+
+# Large model weights / data caches
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.ckpt
+cache/
