@@ -19,3 +19,9 @@ Thumbs.db
 *.bin
 *.ckpt
 cache/
+
+# Personal local study notes & scratchpad
+recipe-book.md
+recipe-book.pdf
+ideas-backlog.md
+scripts/
